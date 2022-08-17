@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JackAtkerson/food-festival/issues"
   },
-  "homepage": "https://github.com/JackAtkerson/food-festival#readme"
+  "homepage": "https://github.com/JackAtkerson/food-festival#readme",
+  "devDependencies": {
+    "webpack-bundle-analyzer": "^4.5.0"
+  }
 }
